@@ -29,7 +29,7 @@ useEffect (function() { // triggered on every render of the component
  }, 
   [] // leaving the second parameter empty will only trigger the function when the component mounts
  );
-
+   
   return (
     <div className="App">
       <div>
